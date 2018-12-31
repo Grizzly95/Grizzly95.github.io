@@ -1,0 +1,17 @@
+#entorno {
+	display: block;
+	margin: 0 auto;
+}
+
+#fondo {
+	opacity: 0.3;
+}
+#main{
+	
+}
+#text{
+	width: 40%;
+max-width: 68em;
+margin: 0 auto;
+padding: 0 2.5em;
+}

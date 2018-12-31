@@ -1,0 +1,14 @@
+#entorno {
+	display: block;
+	margin: 0 auto;
+}
+
+#fondo {
+	opacity: 0.3;
+}
+.text{
+	width: 60%;
+height: auto;
+text-align: justify;
+margin-left: 13em;
+}
